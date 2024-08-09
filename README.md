@@ -722,7 +722,7 @@
 *   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
 *   [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
 *   [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
-*   [yui540/HAPPY\_BIRTHDAY\_YUI](https://github.com/yui540/HAPPY_BIRTHDAY_YUI) - 🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂
+*   [css-animator/HAPPY\_BIRTHDAY\_YUI](https://github.com/css-animator/HAPPY_BIRTHDAY_YUI) - 🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 *   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 *   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
