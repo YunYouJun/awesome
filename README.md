@@ -343,7 +343,7 @@
 *   [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 *   [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 *   [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
-*   [antfu-collective/vitesse-nuxt3](https://github.com/antfu-collective/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
+*   [antfu-collective/vitesse-nuxt](https://github.com/antfu-collective/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
 *   [pixijs/filters](https://github.com/pixijs/filters) - Collection of community-authored custom display filters for PixiJS
 *   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
@@ -421,7 +421,7 @@
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 *   [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 *   [YunYouJun/mirai-ts](https://github.com/YunYouJun/mirai-ts) - 🔧 Mirai(QQ Bot) JavaScript/TypeScript SDK for Node.js/Browser
-*   [YunYouJun/el-bot](https://github.com/YunYouJun/el-bot) - 🤖 基于 mirai-ts，运行于 Node.js，可配置、可自定义插件的 QQ 机器人框架。
+*   [YunYouJun/el-bot](https://github.com/YunYouJun/el-bot) - 🤖 基于 Node.js，可配置、可自定义插件的 QQ 机器人框架。（Refactoring...）
 *   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 *   [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 *   [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
