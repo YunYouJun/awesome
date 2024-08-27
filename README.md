@@ -121,6 +121,7 @@
 *   [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 *   [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 *   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
+*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 *   [YunYouJun/friends](https://github.com/YunYouJun/friends) - 👥 Friends of @YunYouJun.
 *   [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 *   [vega/vega](https://github.com/vega/vega) - A visualization grammar.
@@ -762,7 +763,6 @@
 *   [z-xl-t/valaxy-theme-aurora](https://github.com/z-xl-t/valaxy-theme-aurora) - valaxy-theme-aurora
 *   [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 *   [YunYouJun/ak-ui](https://github.com/YunYouJun/ak-ui) - 🔫 UI components for arknights. Deving... 在咕了
-*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 *   [alphardex/aqua.css](https://github.com/alphardex/aqua.css) - An elegant CSS Framework.
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 *   [YunYouJun/star-markdown-css](https://github.com/YunYouJun/star-markdown-css) - 🌟 Markdown Css about violet wandering planet.
