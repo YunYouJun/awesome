@@ -141,7 +141,7 @@
 *   [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 *   [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 *   [matt77hias/js-smallpt](https://github.com/matt77hias/js-smallpt) - ☀️ JavaScript Path Tracer
-*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
+*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 *   [SSShooter/nippon-color](https://github.com/SSShooter/nippon-color) - copy nippon-color PWA build with vue-cli 3
 *   [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 *   [GoogleChromeLabs/houdini-samples](https://github.com/GoogleChromeLabs/houdini-samples) - Demos for different Houdini APIs
