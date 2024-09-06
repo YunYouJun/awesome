@@ -313,7 +313,7 @@
 
 *   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 *   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-*   [Comfy-Org/ComfyUI\_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Front-end of ComfyUI modernized
+*   [Comfy-Org/ComfyUI\_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Front-end of ComfyUI modernized. \[Team travelling between 2024-09-06 and 2024-09-09. No release during the period]
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 *   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 *   [flauwekeul/honeycomb](https://github.com/flauwekeul/honeycomb) - Create hex grids easily, in node or the browser.
