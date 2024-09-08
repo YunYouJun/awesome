@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [CoffeeScript](#coffeescript)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -45,7 +46,11 @@
 *   [D](#d)
 *   [Less](#less)
 *   [PLSQL](#plsql)
-*   [CoffeeScript](#coffeescript)
+
+## CoffeeScript
+
+*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
+*   [williamngan/pt](https://github.com/williamngan/pt) - An experimental library on point, form, and space.
 
 ## JavaScript
 
@@ -871,7 +876,7 @@
 
 ## Batchfile
 
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## Objective-C
 
@@ -896,7 +901,6 @@
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 *   [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ## Makefile
 
@@ -968,7 +972,3 @@
 ## PLSQL
 
 *   [cocos/cocos-example-dark-slash](https://github.com/cocos/cocos-example-dark-slash) -
-
-## CoffeeScript
-
-*   [williamngan/pt](https://github.com/williamngan/pt) - An experimental library on point, form, and space.
