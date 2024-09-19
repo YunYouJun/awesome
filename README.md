@@ -49,6 +49,7 @@
 
 ## TypeScript
 
+*   [huankong233/node-napcat-ts](https://github.com/huankong233/node-napcat-ts) - napcat SDK
 *   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 *   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 现代化的基于 NTQQ 的 Bot 协议端实现
 *   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
@@ -511,7 +512,6 @@
 *   [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 *   [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 *   [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
-*   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 
 ## Python
 
