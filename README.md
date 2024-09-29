@@ -178,6 +178,7 @@
 *   [DanSnow/vue-recaptcha](https://github.com/DanSnow/vue-recaptcha) - Google ReCAPTCHA component for Vue.js
 *   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 *   [shidenggui/bloghub](https://github.com/shidenggui/bloghub) - 一群自由而有趣的灵魂，终将在此相遇 | 独立个人博客推荐导航
+*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
 *   [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -724,7 +725,6 @@
 *   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 *   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
 *   [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
-*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
 *   [mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
 *   [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
 *   [honjun/hexo-theme-sakura](https://github.com/honjun/hexo-theme-sakura) -
