@@ -676,7 +676,7 @@
 
 *   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 *   [YunYouJun/ai-sfc](https://github.com/YunYouJun/ai-sfc) - AI 春联 / Spring Festival Couplets
-*   [WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura) - A versatile, customizable, modular, and multi-style Valaxy blog theme (alpha).
+*   [WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura) - A simple, personalized, and cute anime-style blog theme.
 *   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 *   [enpitsuLin/tres-the-aviator](https://github.com/enpitsuLin/tres-the-aviator) - The Aviator game built with TresJS and three.js r163
 *   [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
