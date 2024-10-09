@@ -50,6 +50,7 @@
 
 ## TypeScript
 
+*   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [huankong-team/node-napcat-ts](https://github.com/huankong-team/node-napcat-ts) - napcat SDK
 *   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
@@ -927,7 +928,6 @@
 *   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 *   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 *   [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## Java
 
