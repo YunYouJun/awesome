@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [Zig](#zig)
 *   [CoffeeScript](#coffeescript)
@@ -15,7 +16,6 @@
 *   [Stylus](#stylus)
 *   [Vue](#vue)
 *   [Go](#go)
-*   [CSS](#css)
 *   [Rust](#rust)
 *   [Game Maker Language](#game-maker-language)
 *   [SCSS](#scss)
@@ -47,6 +47,34 @@
 *   [D](#d)
 *   [Less](#less)
 *   [PLSQL](#plsql)
+
+## CSS
+
+*   [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+*   [catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) - 🧑‍🎨 Soothing pastel theme for Stable Diffusion WebUI
+*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
+*   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
+*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
+*   [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
+*   [mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
+*   [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
+*   [honjun/hexo-theme-sakura](https://github.com/honjun/hexo-theme-sakura) -
+*   [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
+*   [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
+*   [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
+*   [yui540/HAPPY\_BIRTHDAY\_YUI](https://github.com/yui540/HAPPY_BIRTHDAY_YUI) - 🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+*   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
+*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
+*   [balzss/luxbar](https://github.com/balzss/luxbar) - :cocktail: Featherweight, Responsive, CSS Only Navigation Bar
+*   [codrops/LineMenuStyles](https://github.com/codrops/LineMenuStyles) - An open collection of menu styles that use the line as creative design element.
+*   [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## TypeScript
 
@@ -517,7 +545,6 @@
 *   [alexwolfe/Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass
 *   [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 *   [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
-*   [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 
 ## Python
 
@@ -718,33 +745,6 @@
 *   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 *   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 *   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-
-## CSS
-
-*   [catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) - 🧑‍🎨 Soothing pastel theme for Stable Diffusion WebUI
-*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
-*   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
-*   [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
-*   [mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
-*   [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
-*   [honjun/hexo-theme-sakura](https://github.com/honjun/hexo-theme-sakura) -
-*   [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
-*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
-*   [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
-*   [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
-*   [yui540/HAPPY\_BIRTHDAY\_YUI](https://github.com/yui540/HAPPY_BIRTHDAY_YUI) - 🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
-*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-*   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
-*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
-*   [balzss/luxbar](https://github.com/balzss/luxbar) - :cocktail: Featherweight, Responsive, CSS Only Navigation Bar
-*   [codrops/LineMenuStyles](https://github.com/codrops/LineMenuStyles) - An open collection of menu styles that use the line as creative design element.
-*   [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## Rust
 
