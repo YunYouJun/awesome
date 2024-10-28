@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [CSS](#css)
-*   [TypeScript](#typescript)
 *   [Zig](#zig)
 *   [CoffeeScript](#coffeescript)
 *   [JavaScript](#javascript)
@@ -48,55 +48,9 @@
 *   [Less](#less)
 *   [PLSQL](#plsql)
 
-## Rust
-
-*   [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-*   [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-*   [flaribbit/bakadict](https://github.com/flaribbit/bakadict) - 离线的命令行日语词典
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-*   [jsoverson/node-to-rust](https://github.com/jsoverson/node-to-rust) -
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
-*   [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-
-## CSS
-
-*   [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
-*   [catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) - 🧑‍🎨 Soothing pastel theme for Stable Diffusion WebUI
-*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
-*   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
-*   [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
-*   [mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
-*   [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
-*   [honjun/hexo-theme-sakura](https://github.com/honjun/hexo-theme-sakura) -
-*   [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
-*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
-*   [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
-*   [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
-*   [yui540/HAPPY\_BIRTHDAY\_YUI](https://github.com/yui540/HAPPY_BIRTHDAY_YUI) - 🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
-*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-*   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
-*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
-*   [balzss/luxbar](https://github.com/balzss/luxbar) - :cocktail: Featherweight, Responsive, CSS Only Navigation Bar
-*   [codrops/LineMenuStyles](https://github.com/codrops/LineMenuStyles) - An open collection of menu styles that use the line as creative design element.
-*   [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-
 ## TypeScript
 
+*   [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 *   [maru-re/maru](https://github.com/maru-re/maru) - 「唱歌學日文」 - 基於 YouTube 的歌曲歌詞閱讀器
 *   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -300,6 +254,53 @@
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
+## Rust
+
+*   [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+*   [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+*   [flaribbit/bakadict](https://github.com/flaribbit/bakadict) - 离线的命令行日语词典
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+*   [jsoverson/node-to-rust](https://github.com/jsoverson/node-to-rust) -
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
+*   [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+
+## CSS
+
+*   [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+*   [catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) - 🧑‍🎨 Soothing pastel theme for Stable Diffusion WebUI
+*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
+*   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
+*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
+*   [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
+*   [mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
+*   [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
+*   [honjun/hexo-theme-sakura](https://github.com/honjun/hexo-theme-sakura) -
+*   [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
+*   [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
+*   [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
+*   [yui540/HAPPY\_BIRTHDAY\_YUI](https://github.com/yui540/HAPPY_BIRTHDAY_YUI) - 🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+*   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
+*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
+*   [balzss/luxbar](https://github.com/balzss/luxbar) - :cocktail: Featherweight, Responsive, CSS Only Navigation Bar
+*   [codrops/LineMenuStyles](https://github.com/codrops/LineMenuStyles) - An open collection of menu styles that use the line as creative design element.
+*   [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+
 ## Zig
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -323,7 +324,7 @@
 *   [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 *   [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 *   [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: "Get to Know Your Visitors Better" - The Essential Web Development Tool for User-Agent Detection
+*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection
 *   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
 *   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 *   [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
@@ -954,7 +955,6 @@
 *   [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 *   [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper) - Elegant LaTeX Template for Working Papers
 *   [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
-*   [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
 ## Mathematica
 
