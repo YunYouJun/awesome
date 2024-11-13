@@ -629,7 +629,7 @@
 
 ## miscellaneous
 
-*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
+*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 *   [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 *   [RimoChan/rimochan-LORA](https://github.com/RimoChan/rimochan-LORA) - 【rimochan-LORA】量产型电子莉沫酱！
 *   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
