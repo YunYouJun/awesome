@@ -576,7 +576,7 @@
 *   [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - \[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 *   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 *   [RimoChan/stable-diffusion-anime-tag-benchmark](https://github.com/RimoChan/stable-diffusion-anime-tag-benchmark) - stable diffusion 动漫标签自动化评测
-*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
+*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - SD-Trainer. LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
 *   [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) -
 *   [bmaltais/kohya\_ss](https://github.com/bmaltais/kohya_ss) -
 *   [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
