@@ -684,7 +684,7 @@
 ## C++
 
 *   [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
-*   [pixijs/animate-extension](https://github.com/pixijs/animate-extension) - Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the PixiJS renderer
+*   [pixijs-userland/animate-extension](https://github.com/pixijs-userland/animate-extension) - Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the PixiJS renderer
 *   [BinomialLLC/basis\_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
 *   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 *   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
