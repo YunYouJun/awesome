@@ -474,7 +474,6 @@
 *   [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 *   [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 *   [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Available on the VSCode Marketplace
-*   [YunYouJun/yunyoujun.github.io](https://github.com/YunYouJun/yunyoujun.github.io) - 🌐 云游君的小站，一个自言自语的地方。
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 *   [YunYouJun/cocos-creator-joystick](https://github.com/YunYouJun/cocos-creator-joystick) - 🕹 Cocos Creator Joystick Demo 虚拟摇杆
@@ -569,7 +568,7 @@
 ## Python
 
 *   [RimoChan/Pepin](https://github.com/RimoChan/Pepin) - 同事批评器！
-*   [saturday06/VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender) - VRM Importer, Exporter and Utilities for Blender 2.93 to 4.2
+*   [saturday06/VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender) - VRM Importer, Exporter and Utilities for Blender 2.93 to 4.3
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 *   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
 *   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -745,6 +744,7 @@
 *   [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 *   [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 *   [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
+*   [YunYouJun/yunyoujun.github.io](https://github.com/YunYouJun/yunyoujun.github.io) - 🌐 云游君的小站，一个自言自语的地方。
 *   [egoist/emoji](https://github.com/egoist/emoji) - Unfancy emoji searcher.
 *   [YunYouJun/my-DIARY](https://github.com/YunYouJun/my-DIARY) - MyDiary 君の名は。
 *   [YunYouJun/vue-about-me](https://github.com/YunYouJun/vue-about-me) - ℹ️ Display your copyright & social links.
