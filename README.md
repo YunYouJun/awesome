@@ -822,6 +822,7 @@
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 *   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 *   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
+*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 *   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 *   [moeoverflow/EVA-icon](https://github.com/moeoverflow/EVA-icon) - EVA Shito web icon font.
 *   [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
@@ -971,7 +972,6 @@
 ## Less
 
 *   [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## PLSQL
 
