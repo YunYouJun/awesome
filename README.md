@@ -469,7 +469,7 @@
 *   [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
 *   [EnotionZ/jscii](https://github.com/EnotionZ/jscii) - JavaScript image to ASCII converter
 *   [z-------------/Asciify](https://github.com/z-------------/Asciify) - A JavaScript "library" that turns images into ascii art.
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 *   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
 *   [matchvs/AnimalChecker](https://github.com/matchvs/AnimalChecker) - CC游戏案例之 斗兽棋
 *   [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
