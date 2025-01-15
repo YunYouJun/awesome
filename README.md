@@ -246,7 +246,7 @@
 *   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 *   [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 *   [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
-*   [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Available on the VSCode Marketplace
+*   [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - 🎨 Material Design icons for VS Code
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 *   [YunYouJun/cocos-creator-joystick](https://github.com/YunYouJun/cocos-creator-joystick) - 🕹 Cocos Creator Joystick Demo 虚拟摇杆
