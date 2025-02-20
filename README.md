@@ -753,7 +753,7 @@
 *   [WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura) - A simple, personalized, and cute anime-style blog theme.
 *   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 *   [enpitsuLin/tres-the-aviator](https://github.com/enpitsuLin/tres-the-aviator) - The Aviator game built with TresJS and three.js r163
-*   [unovue/radix-vue](https://github.com/unovue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+*   [unovue/reka-ui](https://github.com/unovue/reka-ui) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 *   [zeokku/glsl.app](https://github.com/zeokku/glsl.app) - 🌅 Modern WebGL GLSL Shaders Editor
 *   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 *   [vuejs/theme](https://github.com/vuejs/theme) - VitePress theme for vuejs.org.
