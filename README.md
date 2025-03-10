@@ -59,7 +59,7 @@
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [huankong-team/node-napcat-ts](https://github.com/huankong-team/node-napcat-ts) - napcat SDK
 *   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
-*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 现代化的基于 NTQQ 的 Bot 协议端实现
+*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework implemented based on NTQQ
 *   [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 *   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 *   [Comfy-Org/ComfyUI\_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
