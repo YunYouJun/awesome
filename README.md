@@ -41,6 +41,7 @@
 *   [GLSL](#glsl)
 *   [Vim Script](#vim-script)
 *   [LiveScript](#livescript)
+*   [QML](#qml)
 *   [TeX](#tex)
 *   [Mathematica](#mathematica)
 *   [Ren'Py](#renpy)
@@ -92,7 +93,6 @@
 *   [rainyear/ImageColorTheme](https://github.com/rainyear/ImageColorTheme) - Extract Color Themes from Images
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 *   [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
-*   [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 *   [zh-plus/video-to-pose3D](https://github.com/zh-plus/video-to-pose3D) - Convert video to 3D pose in one-key.
 *   [facebookresearch/VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
 *   [uhlik/bpy](https://github.com/uhlik/bpy) - blender python scripts
@@ -950,6 +950,10 @@
 ## LiveScript
 
 *   [michael-brade/LaTeX.js](https://github.com/michael-brade/LaTeX.js) - JavaScript LaTeX to HTML5 translator
+
+## QML
+
+*   [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 
 ## TeX
 
