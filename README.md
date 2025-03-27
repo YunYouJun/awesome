@@ -24,6 +24,7 @@
 *   [Dart](#dart)
 *   [PHP](#php)
 *   [Swift](#swift)
+*   [Java](#java)
 *   [Dockerfile](#dockerfile)
 *   [Svelte](#svelte)
 *   [C](#c-2)
@@ -37,7 +38,6 @@
 *   [Standard ML](#standard-ml)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
-*   [Java](#java)
 *   [GLSL](#glsl)
 *   [Vim Script](#vim-script)
 *   [LiveScript](#livescript)
@@ -845,11 +845,18 @@
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 *   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-*   [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
 *   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 *   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 *   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 *   [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
+
+## Java
+
+*   [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
+*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
+*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+*   [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
 ## Dockerfile
 
@@ -930,13 +937,6 @@
 *   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 *   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 *   [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-
-## Java
-
-*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
-*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-*   [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
-*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
 ## GLSL
 
