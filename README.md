@@ -26,7 +26,6 @@
 *   [Swift](#swift)
 *   [Java](#java)
 *   [Dockerfile](#dockerfile)
-*   [Svelte](#svelte)
 *   [C](#c-2)
 *   [WebAssembly](#webassembly)
 *   [Lua](#lua)
@@ -371,6 +370,7 @@
 *   [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 *   [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...).
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 *   [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 *   [piersdeseilligny/betterfountain](https://github.com/piersdeseilligny/betterfountain) - A screenwriting app integrated into visual studio code
@@ -861,10 +861,6 @@
 ## Dockerfile
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-## Svelte
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## C
 
