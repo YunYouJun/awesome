@@ -24,7 +24,6 @@
 *   [Dart](#dart)
 *   [PHP](#php)
 *   [Swift](#swift)
-*   [Java](#java)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
 *   [WebAssembly](#webassembly)
@@ -37,6 +36,7 @@
 *   [Standard ML](#standard-ml)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
+*   [Java](#java)
 *   [GLSL](#glsl)
 *   [Vim Script](#vim-script)
 *   [LiveScript](#livescript)
@@ -170,6 +170,7 @@
 *   [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
 *   [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 *   [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+*   [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
 *   [YunYouJun/wc-github-corners](https://github.com/YunYouJun/wc-github-corners) - :octocat: A web component for github corners. Can be used anywhere.
 *   [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 *   [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
@@ -850,14 +851,6 @@
 *   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 *   [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 
-## Java
-
-*   [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
-*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
-*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-*   [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
-*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-
 ## Dockerfile
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -933,6 +926,13 @@
 *   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 *   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 *   [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
+
+## Java
+
+*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
+*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+*   [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
 ## GLSL
 
