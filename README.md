@@ -266,7 +266,7 @@
 
 *   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 *   [RimoChan/Pepin](https://github.com/RimoChan/Pepin) - 同事批评器！
-*   [saturday06/VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender) - VRM Importer, Exporter and Utilities for Blender 2.93 to 4.3
+*   [saturday06/VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender) - VRM Importer, Exporter and Utilities for Blender 2.93 to 4.4
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 *   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
 *   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
