@@ -11,7 +11,6 @@
 *   [Rust](#rust)
 *   [CSS](#css)
 *   [Zig](#zig)
-*   [CoffeeScript](#coffeescript)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
@@ -48,6 +47,7 @@
 *   [D](#d)
 *   [Less](#less)
 *   [PLSQL](#plsql)
+*   [CoffeeScript](#coffeescript)
 *   [MDX](#mdx)
 
 ## TypeScript
@@ -62,7 +62,7 @@
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [huankong-team/node-napcat-ts](https://github.com/huankong-team/node-napcat-ts) - napcat SDK
 *   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
-*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework implemented based on NTQQ
+*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 *   [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 *   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 *   [Comfy-Org/ComfyUI\_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
@@ -358,6 +358,7 @@
 ## JavaScript
 
 *   [primefaces/sakai-vue](https://github.com/primefaces/sakai-vue) -
+*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 *   [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 *   [weui/weui-icon](https://github.com/weui/weui-icon) - WeUI icon
@@ -651,11 +652,6 @@
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
-## CoffeeScript
-
-*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
-*   [williamngan/pt](https://github.com/williamngan/pt) - An experimental library on point, form, and space.
-
 ## miscellaneous
 
 *   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
@@ -723,7 +719,6 @@
 *   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 *   [electronicarts/CnC\_Remastered\_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
 *   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
-*   [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 *   [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 *   [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 *   [KhronosGroup/COLLADA2GLTF](https://github.com/KhronosGroup/COLLADA2GLTF) - COLLADA to glTF converter
@@ -867,6 +862,7 @@
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 *   [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
 *   [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+*   [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 *   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 *   [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -953,7 +949,7 @@
 
 ## QML
 
-*   [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
+*   [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## TeX
 
@@ -980,6 +976,10 @@
 ## PLSQL
 
 *   [cocos/cocos-example-dark-slash](https://github.com/cocos/cocos-example-dark-slash) -
+
+## CoffeeScript
+
+*   [williamngan/pt](https://github.com/williamngan/pt) - An experimental library on point, form, and space.
 
 ## MDX
 
