@@ -52,6 +52,7 @@
 
 ## TypeScript
 
+*   [unjs/obuild](https://github.com/unjs/obuild) - 📦 😯 Zero-config ESM/TS package builder. powered by oxc, rolldown and rolldown-plugin-dts.
 *   [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - A Vue3.x UI components lib for TDesign.
 *   [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini) - 基于 Vue 3 的小程序框架。简单，强大，高性能。
 *   [YunYouJun/chat-generator](https://github.com/YunYouJun/chat-generator) - 💬 聊天记录合集
@@ -352,7 +353,6 @@
 *   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 *   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 *   [moeoverflow/EVA-icon](https://github.com/moeoverflow/EVA-icon) - EVA Shito web icon font.
-*   [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 
 ## JavaScript
 
