@@ -439,7 +439,7 @@
 *   [DanSnow/vue-recaptcha](https://github.com/DanSnow/vue-recaptcha) - Google ReCAPTCHA component for Vue.js
 *   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 *   [shidenggui/bloghub](https://github.com/shidenggui/bloghub) - 一群自由而有趣的灵魂，终将在此相遇 | 独立个人博客推荐导航
-*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API documentation
+*   [AniList/docs](https://github.com/AniList/docs) - AniList API documentation
 *   [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
