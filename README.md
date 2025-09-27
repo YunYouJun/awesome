@@ -44,11 +44,11 @@
 *   [TeX](#tex)
 *   [Mathematica](#mathematica)
 *   [Ren'Py](#renpy)
+*   [MDX](#mdx)
 *   [D](#d)
 *   [Less](#less)
 *   [PLSQL](#plsql)
 *   [CoffeeScript](#coffeescript)
-*   [MDX](#mdx)
 
 ## C++
 
@@ -622,7 +622,6 @@
 *   [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
 *   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 *   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
-*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 *   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 *   [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 *   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -965,6 +964,11 @@
 
 *   [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
+## MDX
+
+*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
 ## D
 
 *   [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
@@ -980,7 +984,3 @@
 ## CoffeeScript
 
 *   [williamngan/pt](https://github.com/williamngan/pt) - An experimental library on point, form, and space.
-
-## MDX
-
-*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
