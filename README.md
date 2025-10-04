@@ -553,7 +553,6 @@
 *   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 *   [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - \[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 *   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
-*   [RimoChan/stable-diffusion-anime-tag-benchmark](https://github.com/RimoChan/stable-diffusion-anime-tag-benchmark) - stable diffusion 动漫标签自动化评测
 *   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - SD-Trainer. LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
 *   [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) -
 *   [bmaltais/kohya\_ss](https://github.com/bmaltais/kohya_ss) -
@@ -609,6 +608,7 @@
 ## HTML
 
 *   [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
+*   [RimoChan/stable-diffusion-anime-tag-benchmark](https://github.com/RimoChan/stable-diffusion-anime-tag-benchmark) - stable diffusion 动漫标签自动化评测
 *   [QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) - Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of \<Real-Time Rendering 4th (RTR4)> Bibliography / Reference
 *   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
 *   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
