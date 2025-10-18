@@ -1,9 +1,10 @@
 name: Update awesome list
 
-on: 
+on:
   workflow_dispatch:
   schedule:
-    - cron: '00 00 */1 * *'
+    # 每周更新（UTC 周日 00:00）
+    - cron: '0 0 * * 0'
 
 jobs:
   build:
@@ -14,7 +15,6 @@ jobs:
         uses: simonecorsi/mawesome@v2
         with:
           template-path: "template/README.ejs"
-          api-token: ${{ secrets.API_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          api-token: ${{ secrets.API_TOKEN }}
           github-email: me@yunyoujun.cn
           github-name: ${{ github.repository_owner }}
