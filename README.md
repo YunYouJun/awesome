@@ -91,7 +91,6 @@
 *   [weui/weui-icon](https://github.com/weui/weui-icon) - WeUI icon
 *   [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 *   [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 *   [k8w/tsrpc-examples](https://github.com/k8w/tsrpc-examples) -
 *   [AndrewSink/3D-Low-Poly-Generator](https://github.com/AndrewSink/3D-Low-Poly-Generator) - 3D Low Poly Generator / Mesh Decimation Tool
 *   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -207,7 +206,7 @@
 *   [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 *   [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 *   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-*   [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+*   [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org
 *   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 *   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 *   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
@@ -235,6 +234,7 @@
 *   [react-ga/react-ga](https://github.com/react-ga/react-ga) - React Google Analytics Module
 *   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 *   [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 *   [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 *   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -349,6 +349,7 @@
 *   [Comfy-Org/ComfyUI\_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 *   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 *   [flauwekeul/honeycomb](https://github.com/flauwekeul/honeycomb) - Create hex grids easily, in node or the browser.
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 *   [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -497,7 +498,6 @@
 *   [bda-research/node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 *   [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 *   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 *   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
 *   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 *   [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -528,7 +528,7 @@
 *   [egoist/bili](https://github.com/egoist/bili) - Bili makes it easier to bundle JavaScript libraries.
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 *   [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 *   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 *   [EYHN/hexo-theme-one](https://github.com/EYHN/hexo-theme-one) - hexo单页面炫酷主题
