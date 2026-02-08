@@ -800,7 +800,7 @@
 *   [QianMo/X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - Unity Post Processing Stack Library | Unity引擎的高品质后处理库
 *   [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 *   [DenchiSoft/VTubeStudio](https://github.com/DenchiSoft/VTubeStudio) - VTube Studio API Development Page
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 *   [ElpsyCN/create-girl-friend](https://github.com/ElpsyCN/create-girl-friend) - Create your girl friend. 创建你的对象（女朋友）。
 *   [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, \*BSD and Mac OS X.
 *   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
