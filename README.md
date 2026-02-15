@@ -26,6 +26,7 @@
 *   [Svelte](#svelte)
 *   [C](#c-2)
 *   [WebAssembly](#webassembly)
+*   [Assembly](#assembly)
 *   [Lua](#lua)
 *   [Batchfile](#batchfile)
 *   [Objective-C](#objective-c)
@@ -298,7 +299,6 @@
 *   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 *   [umijs/umi-request](https://github.com/umijs/umi-request) - A request tool based on fetch.
 *   [Domenicobrz/Lumen-2D](https://github.com/Domenicobrz/Lumen-2D) - 2D javascript renderer using web workers
-*   [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 *   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 *   [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 *   [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) -
@@ -623,7 +623,7 @@
 *   [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 *   [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 *   [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-*   [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
+*   [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - Deprecated: A fork of the iconic font and CSS toolkit
 *   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 *   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 *   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -861,6 +861,10 @@
 ## WebAssembly
 
 *   [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## Assembly
+
+*   [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 
 ## Lua
 
