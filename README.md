@@ -313,7 +313,7 @@
 *   [zh-plus/video-to-pose3D](https://github.com/zh-plus/video-to-pose3D) - Convert video to 3D pose in one-key.
 *   [facebookresearch/VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
 *   [uhlik/bpy](https://github.com/uhlik/bpy) - blender python scripts
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 *   [taki0112/UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 *   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
