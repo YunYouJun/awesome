@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -21,7 +22,6 @@
 *   [C#](#c-1)
 *   [Dart](#dart)
 *   [PHP](#php)
-*   [Swift](#swift)
 *   [Dockerfile](#dockerfile)
 *   [Svelte](#svelte)
 *   [C](#c-2)
@@ -49,6 +49,16 @@
 *   [Less](#less)
 *   [PLSQL](#plsql)
 *   [CoffeeScript](#coffeescript)
+
+## Swift
+
+*   [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) -
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+*   [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 
 ## TypeScript
 
@@ -272,7 +282,7 @@
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 *   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 *   [RimoChan/Pepin](https://github.com/RimoChan/Pepin) - 同事批评器！
-*   [saturday06/VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender) - VRM Importer, Exporter and Utilities for Blender 2.93 to 5.0
+*   [saturday06/VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender) - VRM Importer, Exporter and Utilities for Blender 2.93 to 5.1
 *   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
 *   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 *   [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - \[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
@@ -577,7 +587,6 @@
 *   [node-webot/wechat](https://github.com/node-webot/wechat) - 微信公共平台消息接口服务中间件
 *   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 *   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 
 ## C++
 
@@ -825,15 +834,6 @@
 *   [overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat) - 微信 SDK for Laravel, 基于 overtrue/wechat
 *   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 *   [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
-
-## Swift
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-*   [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 
 ## Dockerfile
 
