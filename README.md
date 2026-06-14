@@ -21,9 +21,9 @@
 *   [Game Maker Language](#game-maker-language)
 *   [C#](#c-1)
 *   [Dart](#dart)
+*   [C](#c-2)
 *   [PHP](#php)
 *   [Svelte](#svelte)
-*   [C](#c-2)
 *   [WebAssembly](#webassembly)
 *   [Lua](#lua)
 *   [Batchfile](#batchfile)
@@ -274,6 +274,7 @@
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 *   [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
+*   [YunYouJun/give-me-money](https://github.com/YunYouJun/give-me-money) - 💰 I'm so cute. Please give me money. 我很可爱，请给我钱。
 *   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 *   [EYHN/hexo-theme-one](https://github.com/EYHN/hexo-theme-one) - hexo单页面炫酷主题
 *   [cocos/cocos-docs](https://github.com/cocos/cocos-docs) - Manual docs content for Cocos Creator
@@ -318,7 +319,7 @@
 *   [OsciiArt/DeepAA](https://github.com/OsciiArt/DeepAA) - make ASCII Art by Deep Learning
 *   [powroupi/blender\_mmd\_tools](https://github.com/powroupi/blender_mmd_tools) - mmd\_tools is a blender addon for importing Models and Motions of MikuMikuDance.
 *   [1996scarlet/OpenVtuber](https://github.com/1996scarlet/OpenVtuber) - 虚拟爱抖露(アイドル)共享计划, 是基于单目RGB摄像头的人眼与人脸特征点检测算法, 在实时3D面部捕捉以及模型驱动领域的应用.
-*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch > ONNX > CoreML > TFLite
 *   [kong36088/BaiduImageSpider](https://github.com/kong36088/BaiduImageSpider) - 一个超级轻量的百度图片爬虫
 *   [jiupinjia/SkyAR](https://github.com/jiupinjia/SkyAR) - Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800.
 *   [RimoChan/Librian](https://github.com/RimoChan/Librian) - 【Librian】簡明強大的 Galgame | Visual Novel 引擎
@@ -482,7 +483,7 @@
 *   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 *   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 *   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+*   [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 *   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 *   [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 *   [c3js/c3](https://github.com/c3js/c3) - :bar\_chart: A D3-based reusable chart library
@@ -660,7 +661,6 @@
 *   [YunYouJun/my-DIARY](https://github.com/YunYouJun/my-DIARY) - MyDiary 君の名は。
 *   [YunYouJun/vue-about-me](https://github.com/YunYouJun/vue-about-me) - ℹ️ Display your copyright & social links.
 *   [caijinyc/vue-music-webapp](https://github.com/caijinyc/vue-music-webapp) - A Music WebApp based on the Vue.
-*   [YunYouJun/give-me-money](https://github.com/YunYouJun/give-me-money) - 💰 I'm so cute. Please give me money. 我很可爱，请给我钱。
 *   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 *   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 *   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
@@ -723,7 +723,7 @@
 *   [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
 *   [honjun/hexo-theme-sakura](https://github.com/honjun/hexo-theme-sakura) -
 *   [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
-*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
+*   [itmeo/webgradients](https://github.com/itmeo/webgradients) - 180 linear gradients in CSS3, Figma, Sketch and PSD formats — free for personal and commercial use
 *   [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
 *   [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
 *   [yui540/HAPPY\_BIRTHDAY\_YUI](https://github.com/yui540/HAPPY_BIRTHDAY_YUI) - 🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂
@@ -760,7 +760,7 @@
 *   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 *   [QianMo/PBR-White-Paper](https://github.com/QianMo/PBR-White-Paper) - ⚡️基于物理的渲染（PBR）白皮书 |  White Paper of Physically Based Rendering(PBR)
 *   [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Trace back an anime scene with a screenshot
+*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Timestamp Retrieval for Anime Clips Everywhere
 *   [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 *   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 *   [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
@@ -817,7 +817,6 @@
 *   [QianMo/X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - Unity Post Processing Stack Library | Unity引擎的高品质后处理库
 *   [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 *   [DenchiSoft/VTubeStudio](https://github.com/DenchiSoft/VTubeStudio) - VTube Studio API Development Page
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 *   [ElpsyCN/create-girl-friend](https://github.com/ElpsyCN/create-girl-friend) - Create your girl friend. 创建你的对象（女朋友）。
 *   [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, \*BSD and Mac OS X.
 *   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -828,6 +827,22 @@
 *   [toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit) - All Platform Flutter Experience App
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## C
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
+*   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
+*   [MozillaReality/servo-unity](https://github.com/MozillaReality/servo-unity) - INACTIVE - Servo for Unity - experimental
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+*   [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
+*   [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+*   [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
+*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
+*   [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+*   [kripken/box2d.js](https://github.com/kripken/box2d.js) - Port of Box2D to JavaScript using Emscripten
+*   [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 
 ## PHP
 
@@ -846,21 +861,6 @@
 ## Svelte
 
 *   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
-## C
-
-*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
-*   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-*   [MozillaReality/servo-unity](https://github.com/MozillaReality/servo-unity) - INACTIVE - Servo for Unity - experimental
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-*   [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
-*   [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
-*   [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
-*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
-*   [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-*   [kripken/box2d.js](https://github.com/kripken/box2d.js) - Port of Box2D to JavaScript using Emscripten
-*   [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 
 ## WebAssembly
 
